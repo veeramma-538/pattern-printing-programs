@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>🧠 Pattern Printing - HTML + JS</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <h1>🧠 Pattern Printing Programs</h1>
+
+  <div class="input-container">
+    <label for="rows">🌈 Enter number of rows:</label>
+    <input type="number" id="rows" placeholder="e.g. 5" min="1" max="20">
+  </div>
+
+  <div class="buttons">
+    <button onclick="printSquare()">⬛ Square</button>
+    <button onclick="printPyramid()">🔺 Pyramid</button>
+    <button onclick="printNumberTriangle()">🔢 Number Triangle</button>
+    <button onclick="printAlphabetTriangle()">🔠 Alphabet Triangle</button>
+    <button onclick="printButterfly()">🦋 Butterfly</button>
+    <button onclick="printHourglass()">⏳ Hourglass</button>
+    <button onclick="clearPattern()">🧼 Clear</button>
+  </div>
+
+  <pre id="output"></pre>
+
+  <footer>
+    <p>✨ Built with HTML, CSS & JS — Enhanced Patterns 🚀</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
