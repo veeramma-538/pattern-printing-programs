@@ -58,6 +58,7 @@ This upgraded version supports **user input**, 🪄 **creative patterns** like �
 ## 📂 **Project Structure**
 pattern-printing-html/
 │
+
 ├── index.html # Structure & buttons
 
 ├── style.css # Styling, layout, responsiveness
@@ -74,31 +75,31 @@ pattern-printing-html/
 
 1. Clone this repository:
 
- git clone 
+   git clone 
  
- https://github.com/veeramma-538/pattern-printing-programs.git
+   https://github.com/veeramma-538/pattern-printing-programs.git
 
 2. Open the folder:
 
-    cd pattern-printing-html
+   cd pattern-printing-html
 
 3. Run the project:
 
-Just double-click on index.html
+    Just double-click on index.html
 
-It will open in your browser 🌐
+    It will open in your browser 🌐
 
 
 
 
 🪄 Bonus Enhancement Ideas
-Want to make it even cooler? Try adding:
+     Want to make it even cooler? Try adding:
 
-🎚️ Pattern selector dropdown instead of buttons
+     🎚️ Pattern selector dropdown instead of buttons
 
-⏱️ Animated step-by-step pattern drawing
+     ⏱️ Animated step-by-step pattern drawing
 
-💾 Download pattern as .txt file
+     💾 Download pattern as .txt file
 
 🔸 Extra patterns like Rhombus, Sandglass, Pascal’s triangle, Spiral matrix
 
@@ -107,11 +108,11 @@ Want to make it even cooler? Try adding:
 
 🧑‍💻 AUTHOR 
 
-👩‍💻 Ede Durga Rajya Veeramma
+    👩‍💻 Ede Durga Rajya Veeramma
 
-📌 GitHub Profile : https://github.com/veeramma-538
+   📌 GitHub Profile : https://github.com/veeramma-538
 
-⭐ If you found this project useful, star the repo!
+   ⭐ If you found this project useful, star the repo!
 
 
 
@@ -119,6 +120,6 @@ Want to make it even cooler? Try adding:
 📝 LICENCE
 
 
-This project is open source and available under the MIT License.
+    This project is open source and available under the MIT License.
 
 
