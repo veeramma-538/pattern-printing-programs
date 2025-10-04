@@ -101,7 +101,7 @@ Want to make it even cooler? Try adding:
 
 
 
-🧑‍💻 AUTHOR
+🧑‍💻 AUTHOR 
 
 👩‍💻 Ede Durga Rajya Veeramma
 
