@@ -68,13 +68,14 @@ pattern-printing-html/
 
 ---
 
+
+
 ## 🚀 **How to Run Locally**
 
 1. Clone this repository:
 
-   ```bash
-   
- git clone  https://github.com/veeramma-538/pattern-printing-programs.git
+ git clone 
+ https://github.com/veeramma-538/pattern-printing-programs.git
 
 2. Open the folder:
 
@@ -85,6 +86,8 @@ pattern-printing-html/
 Just double-click on index.html
 
 It will open in your browser 🌐
+
+
 
 
 🪄 Bonus Enhancement Ideas
@@ -99,12 +102,17 @@ Want to make it even cooler? Try adding:
 🔸 Extra patterns like Rhombus, Sandglass, Pascal’s triangle, Spiral matrix
 
 
+
+
 🧑‍💻 Author
-👩‍💻 Ede Durha Rajya Veeramma
+
+👩‍💻 Ede Durga Rajya Veeramma
 
 📌 GitHub Profile : https://github.com/veeramma-538
 
 ⭐ If you found this project useful, star the repo!
+
+
 
 
 📝 License
