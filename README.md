@@ -8,7 +8,7 @@ This upgraded version supports **user input**, 🪄 **creative patterns** like �
 ---
 
 ## 🌐 **Live Demo**
-👉 [View on https://pattern-print.netlify.app/]
+👉 View on [https://pattern-print.netlify.app/]
 
 ---
 
@@ -59,8 +59,11 @@ This upgraded version supports **user input**, 🪄 **creative patterns** like �
 pattern-printing-html/
 │
 ├── index.html # Structure & buttons
+
 ├── style.css # Styling, layout, responsiveness
+
 ├── script.js # Pattern printing logic & animations
+
 └── README.md # Documentation
 
 
@@ -72,6 +75,7 @@ pattern-printing-html/
 1. Clone this repository:
 
  git clone 
+ 
  https://github.com/veeramma-538/pattern-printing-programs.git
 
 2. Open the folder:
