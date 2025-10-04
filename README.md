@@ -69,10 +69,15 @@ pattern-printing-html/
 ---
 
 ## 🚀 **How to Run Locally**
+
 1. Clone this repository:
+
    ```bash
-   git clone https://github.com/your-username/pattern-printing-html.git
-2. Open the folder:
+   
+ git clone https://github.com/veeramma-538/pattern-printing-programs.git
+
+3. Open the folder:
+
 cd pattern-printing-html
 
 3. Run the project:
@@ -94,11 +99,14 @@ Want to make it even cooler? Try adding:
 
 🧑‍💻 Author
 👩‍💻 Ede Durha Rajya Veeramma
+
 📌 GitHub Profile : https://github.com/veeramma-538
+
 ⭐ If you found this project useful, star the repo!
 
 
 📝 License
+
 
 This project is open source and available under the MIT License.
 
