@@ -8,7 +8,7 @@ This upgraded version supports **user input**, 🪄 **creative patterns** like �
 ---
 
 ## 🌐 **Live Demo**
-👉 [View on GitHub Pages](https://your-username.github.io/pattern-printing-html)  
+👉 [View on 
 
 ---
 
@@ -74,14 +74,16 @@ pattern-printing-html/
 
    ```bash
    
- git clone https://github.com/veeramma-538/pattern-printing-programs.git
+ git clone  https://github.com/veeramma-538/pattern-printing-programs.git
 
-3. Open the folder:
+2. Open the folder:
 
-cd pattern-printing-html
+    cd pattern-printing-html
 
 3. Run the project:
+
 Just double-click on index.html
+
 It will open in your browser 🌐
 
 
