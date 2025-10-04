@@ -8,7 +8,7 @@ This upgraded version supports **user input**, 🪄 **creative patterns** like �
 ---
 
 ## 🌐 **Live Demo**
-👉 [View on 
+👉 [View on https://pattern-print.netlify.app/]
 
 ---
 
@@ -44,7 +44,6 @@ This upgraded version supports **user input**, 🪄 **creative patterns** like �
 
 
 
-
 ### 4️⃣ Alphabet Triangle
 
 
@@ -65,8 +64,6 @@ pattern-printing-html/
 └── README.md # Documentation
 
 
-
----
 
 
 
@@ -104,7 +101,7 @@ Want to make it even cooler? Try adding:
 
 
 
-🧑‍💻 Author
+🧑‍💻 AUTHOR
 
 👩‍💻 Ede Durga Rajya Veeramma
 
@@ -115,7 +112,7 @@ Want to make it even cooler? Try adding:
 
 
 
-📝 License
+📝 LICENCE
 
 
 This project is open source and available under the MIT License.
