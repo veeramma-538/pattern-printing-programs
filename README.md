@@ -92,8 +92,7 @@ pattern-printing-html/
 
 
 
-🪄 Bonus Enhancement Ideas
-     Want to make it even cooler? Try adding:
+🪄 Bonus Enhancement Ideas Want to make it even cooler? Try adding:
 
      🎚️ Pattern selector dropdown instead of buttons
 
@@ -108,7 +107,7 @@ pattern-printing-html/
 
 🧑‍💻 AUTHOR 
 
-    👩‍💻 Ede Durga Rajya Veeramma
+   👩‍💻 Ede Durga Rajya Veeramma
 
    📌 GitHub Profile : https://github.com/veeramma-538
 
@@ -120,6 +119,6 @@ pattern-printing-html/
 📝 LICENCE
 
 
-    This project is open source and available under the MIT License.
+   This project is open source and available under the MIT License.
 
 
